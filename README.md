@@ -1,4 +1,4 @@
-# Assignment 2 Report: Multi-Layer Perceptron Classification from Scratch
+# Multi-Layer Perceptron Classification from Scratch
 
 ## Table of Contents
 - [Introduction](#introduction)
