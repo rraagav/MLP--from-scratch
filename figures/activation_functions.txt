@@ -1,0 +1,40 @@
+Activation Function: sigmoid
+Test Loss: 1.1325, Test Accuracy: 0.4957
+Test Precision: 0.2457, Test Recall: 0.4957, Test F1: 0.3285
+
+Train Loss: 1.1957, Train Accuracy: 0.3982
+Train Precision: 0.1586, Train Recall: 0.3982, Train F1: 0.2269
+
+Eval Loss: 1.1550, Eval Accuracy: 0.3596
+Eval Precision: 0.1293, Eval Recall: 0.3596, Eval F1: 0.1903
+
+Activation Function: tanh
+Test Loss: 1.0818, Test Accuracy: 0.5217
+Test Precision: 0.4438, Test Recall: 0.5217, Test F1: 0.4777
+
+Train Loss: 1.1454, Train Accuracy: 0.5088
+Train Precision: 0.4414, Train Recall: 0.5088, Train F1: 0.4588
+
+Eval Loss: 1.0954, Eval Accuracy: 0.5088
+Eval Precision: 0.4770, Eval Recall: 0.5088, Eval F1: 0.4665
+
+Activation Function: relu
+Test Loss: 1.2216, Test Accuracy: 0.3913
+Test Precision: 0.6273, Test Recall: 0.3913, Test F1: 0.2573
+
+Train Loss: 1.2293, Train Accuracy: 0.4376
+Train Precision: 0.4237, Train Recall: 0.4376, Train F1: 0.2823
+
+Eval Loss: 1.1116, Eval Accuracy: 0.4737
+Eval Precision: 0.3998, Eval Recall: 0.4737, Eval F1: 0.3154
+
+Activation Function: linear
+Test Loss: 1.0945, Test Accuracy: 0.4870
+Test Precision: 0.4231, Test Recall: 0.4870, Test F1: 0.4407
+
+Train Loss: 1.1422, Train Accuracy: 0.4759
+Train Precision: 0.3867, Train Recall: 0.4759, Train F1: 0.4246
+
+Eval Loss: 1.0678, Eval Accuracy: 0.5088
+Eval Precision: 0.4186, Eval Recall: 0.5088, Eval F1: 0.4593
+

@@ -1,0 +1,40 @@
+Learning Rate: 0.001
+Test Loss: 1.0773, Test Accuracy: 0.5652
+Test Precision: 0.4823, Test Recall: 0.5652, Test F1: 0.5201
+
+Train Loss: 1.1386, Train Accuracy: 0.5120
+Train Precision: 0.4305, Train Recall: 0.5120, Train F1: 0.4645
+
+Eval Loss: 1.0866, Eval Accuracy: 0.5263
+Eval Precision: 0.4819, Eval Recall: 0.5263, Eval F1: 0.4846
+
+Learning Rate: 0.01
+Test Loss: 1.0887, Test Accuracy: 0.5565
+Test Precision: 0.4752, Test Recall: 0.5565, Test F1: 0.5121
+
+Train Loss: 1.1352, Train Accuracy: 0.5098
+Train Precision: 0.4258, Train Recall: 0.5098, Train F1: 0.4625
+
+Eval Loss: 1.0769, Eval Accuracy: 0.5088
+Eval Precision: 0.4561, Eval Recall: 0.5088, Eval F1: 0.4693
+
+Learning Rate: 0.1
+Test Loss: 1.1367, Test Accuracy: 0.4957
+Test Precision: 0.2457, Test Recall: 0.4957, Test F1: 0.3285
+
+Train Loss: 1.1917, Train Accuracy: 0.3982
+Train Precision: 0.1586, Train Recall: 0.3982, Train F1: 0.2269
+
+Eval Loss: 1.1367, Eval Accuracy: 0.3596
+Eval Precision: 0.1293, Eval Recall: 0.3596, Eval F1: 0.1903
+
+Learning Rate: 0.5
+Test Loss: 16.4100, Test Accuracy: 0.1043
+Test Precision: 0.0109, Test Recall: 0.1043, Test F1: 0.0197
+
+Train Loss: 16.0257, Train Accuracy: 0.1247
+Train Precision: 0.0156, Train Recall: 0.1247, Train F1: 0.0277
+
+Eval Loss: 15.5888, Eval Accuracy: 0.1491
+Eval Precision: 0.0222, Eval Recall: 0.1491, Eval F1: 0.0387
+

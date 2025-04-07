@@ -1,0 +1,8 @@
+Test Loss: 1.0831, Test Accuracy: 0.5391
+Test Precision: 0.4606, Test Recall: 0.5391, Test F1: 0.4964
+
+Train Loss: 1.1399, Train Accuracy: 0.5033
+Train Precision: 0.4259, Train Recall: 0.5033, Train F1: 0.4563
+
+Eval Loss: 1.0899, Eval Accuracy: 0.5263
+Eval Precision: 0.4877, Eval Recall: 0.5263, Eval F1: 0.4838
